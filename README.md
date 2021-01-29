@@ -1,4 +1,4 @@
-# React Poller
+# React Web Poller
 
 React application that polls a generic web api (WorldClockApi) and updates the page with the result. Styled with React Bootstrap
 
